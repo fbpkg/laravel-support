@@ -1,0 +1,27 @@
+{
+    "name": "fbpkg/support",
+    "description": "Small, framework-agnostic support utilities for PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Farzad Sharifi",
+            "email": "dev@farzadblack.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fbpkg\\Support\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Fbpkg\\Support\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
