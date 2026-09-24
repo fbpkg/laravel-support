@@ -1,6 +1,6 @@
 {
-    "name": "fbpkg/support",
-    "description": "Small, framework-agnostic support utilities for PHP.",
+    "name": "fbpkg/laravel-support",
+    "description": "Common support utilities for Laravel applications.",
     "type": "library",
     "license": "MIT",
     "authors": [

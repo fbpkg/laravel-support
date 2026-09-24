@@ -1,6 +1,6 @@
-# fbpkg/support
+# fbpkg/laravel-support
 
-Small, framework-agnostic support utilities for PHP.
+Common support utilities for Laravel applications.
 
 ## Requirements
 
@@ -9,7 +9,7 @@ Small, framework-agnostic support utilities for PHP.
 ## Installation
 
 ```bash
-composer require fbpkg/support
+composer require fbpkg/laravel-support
 ```
 
 ## Digits
